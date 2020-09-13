@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Computer Science
+    institution: University of Michigan - Ann Arbor
+    year: 2020 - Current
   - course: B.S.E in Computer Engineering
     institution: University of Michigan - Ann Arbor
     year: 2020
