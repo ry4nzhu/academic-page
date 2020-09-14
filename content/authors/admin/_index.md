@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D student in Computer Science
+role: Ph.D. student in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,16 @@ organizations:
   url: "https://cse.engin.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include networked system.
+bio: My research interests include networked system, mobile networks and operating systems.
 
-interests:
+research interests:
 - Computer and Mobile Networks
 - General Computer Systems (OS, ML+System, etc)
-# - Information Retrieval
+- System Security
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: University of Michigan, Ann Arbor
     year: 2020 - Current
   - course: B.S.E in Computer Engineering
@@ -51,6 +51,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ruiyang-zhu-2158111a3/
 - icon: github
   icon_pack: fab
   link: https://github.com/ry4nzhu
@@ -70,7 +73,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Ruiyang Zhu. I am a first-year Ph.D. student at the University of Michigan, advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/).
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+My name is Ruiyang Zhu. I am a first-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research includes broadly computer systems and networks, with a focus on networked system and mobile networks. Before the start of my Ph.D. journey, I received my bachelor degrees in computer engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and the University of Michigan, where I had a happy time doing mobile network and opearting system research.
