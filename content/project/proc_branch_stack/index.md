@@ -3,8 +3,8 @@
 
 title: "A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack"
 summary: "Under Construction"
-authors: []
-tags: []
+authors: ["Ruiyang Zhu", "Meitang Li", "Tianrong Zhang", "Yuan Shen", "Kangjia Cai"]
+tags: ["Architecture", "RISC-V", "SystemVerilog", "Out-of-Order", "R10K"]
 categories: []
 date: 2020-09-14T12:28:29-04:00
 
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Design Diagram of the RISC-V Core"
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
