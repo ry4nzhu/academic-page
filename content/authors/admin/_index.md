@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include networked system, mobile networks and operating systems.
 
-research interests:
+interests:
 - Computer and Mobile Networks
 - General Computer Systems (OS, ML+System, etc)
 - System Security
@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Ruiyang Zhu. I am a first-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research interests include broadly computer systems and networks, with a focus on networked systems and mobile networks. Before the start of my Ph.D. journey, I received my bachelor degrees in computer engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and the University of Michigan, where I had a happy time doing mobile network and opearting system research.
+My name is Ruiyang Zhu. I am a first-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research interests include broadly computer systems and networks, with a focus on networked systems and mobile networks. My current research focus on performance and power optimization on 5G networks.
+
+Before the start of my Ph.D. journey, I received my bachelor degrees in computer engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and the University of Michigan, where I had a happy time doing mobile network and opearting system research.
