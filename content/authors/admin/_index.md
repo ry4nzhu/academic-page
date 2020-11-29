@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Ruiyang Zhu. I am a first-year Ph.D. student [[CV](../../../static/files/cv.pdf)] in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research interests broadly include computer systems and networks, with a focus on networked systems and mobile networks. My current research focus on performance and power optimization on 5G networks.
+My name is Ruiyang Zhu. I am a first-year Ph.D. student [ [CV](../../../static/files/cv.pdf) ] in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research interests broadly include computer systems and networks, with a focus on networked systems and mobile networks. My current research focus on performance and power optimization on 5G networks.
 
 Before the start of my Ph.D. journey, I received my bachelor degrees in Computer Engineering from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and the [University of Michigan](https://ece.engin.umich.edu/academics/undergraduate-programs/programs/computer-engineering/), where I had a happy time doing mobile network and opearting system research.
