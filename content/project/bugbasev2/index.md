@@ -9,14 +9,14 @@ categories: []
 date: 2021-04-30T22:42:50-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/efeslab/bugbasev2"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Failure Sketch of the Bug"
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Bugbasev2 is a collection of reproduceable bugs in popular software stsytems (e.g. TensorFlow, MySQL, etc). Those reproducible bugs help for evaluating bug detection and root cause diagnosis and is an extension of data for the [bugbase](https://github.com/dslab-epfl/bugbase) project. All the bugs are self-contained inside a docker container and ready to be invoked independently. Currently, the total number of reproducible bugs exceeds 100.
+Bugbasev2 is a collection of reproduceable bugs in popular software stsytems (e.g. TensorFlow, MySQL, etc) and their failture sketches. Those reproducible bugs help for evaluating bug detection and root cause diagnosis and is an extension of data for the [bugbase](https://github.com/dslab-epfl/bugbase) project. All the bugs are self-contained inside a docker container and ready to be invoked independently. Currently, the total number of reproducible bugs exceeds 100.
 
 Related paper: [Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures (SOSP'15)](https://dslab.epfl.ch/pubs/gist.pdf)

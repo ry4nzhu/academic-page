@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A RISC-V Based Superscalar Out-of-Order Processor Design with Branch Stack"
-summary: "Under Construction"
+summary: "We built a two-way superscalar processor with early branch resolution."
 authors: ["Ruiyang Zhu", "Meitang Li", "Tianrong Zhang", "Yuan Shen", "Kangjia Cai"]
 tags: ["Architecture", "RISC-V", "SystemVerilog", "Out-of-Order", "R10K"]
 categories: []
