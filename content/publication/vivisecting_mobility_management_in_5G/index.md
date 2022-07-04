@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: "SIGCOMM 2022"
 publication_short: "SIGCOMM 2022"
 
-abstract: "With 5G's support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km+) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- & high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming."
+abstract: "With 5G's support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km+) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- & high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming. We have released the datasets and tools of our study at https://github.com/SIGCOMM22-5GMobility/artifact."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -47,8 +47,8 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: 
-url_dataset:
+url_code: https://github.com/SIGCOMM22-5GMobility/artifact
+url_dataset: https://github.com/SIGCOMM22-5GMobility/artifact
 url_poster:
 url_project:
 url_slides:
