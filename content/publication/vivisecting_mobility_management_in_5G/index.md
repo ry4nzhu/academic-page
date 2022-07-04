@@ -1,25 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications"
+title: " Vivisecting Mobility Management in 5G Cellular Networks"
 authors: 
-- Arvind Narayanan*
-- Xumiao Zhang*
-- Ruiyang Zhu
 - Ahmad Hassan
+- Arvind Narayanan
+- Anlan Zhang
+- Wei Ye
+- Ruiyang Zhu
 - Shuowei Jin
-- Xiao Zhu
-- Denis Rybkin
-- Dustin Zhang
-- Michael Yang
+- Jason Carpenter
 - Z. Morley Mao
-- Feng Qian
 - Zhi-Li Zhang
-date: 2021-04-30T21:56:53-04:00
-doi: "10.1145/3452296.3472923"
+- Feng Qian
+date: 2022-05-29T21:56:53-04:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-30T21:56:53-04:00
+publishDate: 2022-05-29T21:56:53-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,15 +26,15 @@ publishDate: 2021-04-30T21:56:53-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIGCOMM 2021"
-publication_short: "SIGCOMM 2021"
+publication: "SIGCOMM 2022"
+publication_short: "SIGCOMM 2022"
 
-abstract: "Motivated by rapidly expanding deployment of 5G services, we carry out an in-depth study to understand how 5G impacts application performance and energy efficiency. We examine the effects of 5G deployment strategies such as Non-Standalone (NSA) 5G and Standalone (SA), radio bands and protocol specific properties (e.g., RRC state transitions and power profiles) on performance and power usage experienced by user equipment (smart phones) and applications running on them. Unlike previous studies, we focus on both 5G mmWave -- which provides significantly higher throughput than 4G LTE -- and low-band radio (with more comparable throughput with 4G LTE). Our work answers the key questions of how to best utilize 5G for common applications such as video streaming and web browsing, and aid intelligent throughput-power trade-offs."
+abstract: "With 5G's support for diverse radio bands and different deployment modes, e.g. standalone (SA) vs. non-standalone (NSA), mobility management - especially the handover process - becomes far more complex. Measurement studies have shown that frequent handovers cause wild fluctuations in 5G throughput, and worst, service outages. Through a cross-country (6,200km+) driving trip, we conduct in-depth measurements to study the current 5G mobility management practices adopted by three major US carriers. Using this rich dataset, we carry out a systematic analysis to uncover the handover mechanisms employed by 5G carriers, and compare them along several dimensions such as (4G vs. 5G) radio technologies, radio (low-, mid- & high-)bands, and deployment (SA vs NSA) modes. We further quantify the impact of mobility on application performance, power consumption, and signaling overheads. We identify key challenges facing today’s NSA 5G deployments which result in unnecessary handovers and reduced coverage. Finally, we design a holistic handover prediction system Prognos and demonstrate its ability to improve QoE for two 5G applications 16K panoramic VoD and real-time volumetric video streaming."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["5G"]
+tags: ["5G", "mobility management"]
 categories: []
 featured: false
 
@@ -49,13 +47,13 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: https://github.com/SIGCOMM21-5G/artifact
+url_code: 
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=vIi3P2jYrPA
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
