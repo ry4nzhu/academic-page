@@ -3,8 +3,8 @@
 
 title: "A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implications"
 authors: 
-- Arvind Narayanan*
-- Xumiao Zhang*
+- Arvind Narayanan*(co-primary)
+- Xumiao Zhang*(co-primary)
 - Ruiyang Zhu
 - Ahmad Hassan
 - Shuowei Jin

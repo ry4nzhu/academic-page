@@ -46,9 +46,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3544216.3544217
 url_code: https://github.com/SIGCOMM22-5GMobility/artifact
-url_dataset: https://github.com/SIGCOMM22-5GMobility/artifact
+url_dataset: https://github.com/SIGCOMM22-5GMobility/artifact/tree/master/data
 url_poster:
 url_project:
 url_slides:
