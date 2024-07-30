@@ -10,7 +10,7 @@ authors:
 - Mohammad Naserian
 - Z. Morley Mao
 date: 2023-06-14T21:56:53-04:00
-doi: ""
+doi: "https://doi.org/10.1145/3570361.3613271"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 203-06-14T21:56:53-04:00
@@ -42,12 +42,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf:
 url_code: 
 url_dataset: 
 url_poster:
 url_project:
-url_slides:
+url_slides: https://sigmobile.org/mobicom/2023/media/presentations/ZhaoRAO.pptx
 url_source:
 url_video: 
 
