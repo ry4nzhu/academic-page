@@ -50,7 +50,7 @@ url_code:
 url_dataset: 
 url_poster:
 url_project:
-url_slides:
+url_slides: https://docs.google.com/presentation/d/1ITKC2ZmqKkpmv26Oa_t30NzJffxNnzoN/edit?usp=drive_link&ouid=101814994481171285009&rtpof=true&sd=true
 url_source:
 url_video: 
 

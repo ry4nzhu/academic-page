@@ -48,7 +48,7 @@ url_code: https://github.com/zqzqz/AdvCollaborativePerception
 url_dataset: 
 url_poster:
 url_project:
-url_slides:
+url_slides: https://www.usenix.org/system/files/usenixsecurity24_slides-zhang-qingzhao.pdf
 url_source:
 url_video: 
 

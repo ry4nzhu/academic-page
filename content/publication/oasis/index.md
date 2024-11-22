@@ -49,7 +49,7 @@ url_code:
 url_dataset: 
 url_poster:
 url_project:
-url_slides:
+url_slides: https://web.eecs.umich.edu/~xumiao/docs/mmsys24-oasis-slides.pdf
 url_source:
 url_video: 
 
