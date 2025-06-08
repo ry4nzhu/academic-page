@@ -32,6 +32,9 @@ education:
   - course: Ph.D. in Computer Science
     institution: University of Michigan, Ann Arbor
     year: 2020 - Current
+  - course: M.S.E. in Computer Science
+    institution: University of Michigan, Ann Arbor
+    year: 2020 - 2024
   - course: B.S.E in Computer Engineering
     institution: University of Michigan, Ann Arbor
     year: 2018 - 2020
