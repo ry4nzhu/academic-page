@@ -25,8 +25,7 @@ publication_types: ["1"]
 publication: "The 4th Workshop on Transformers for Vision (T4V) at CVPR 2025"
 publication_short: "CVPRW 2025"
 
-abstract: "High-definition (HD) maps are vital for autonomous driving, providing fine-grained geometric and semantic information beyond the scope of onboard perception. However, automatically constructing accurate vectorized maps at scale using learning-based methods remains challenging, as individual vehicles observe only partial, localized environments. This motivates the need for collaborative
-HD map construction, where multiple vehicles contribute local observations to build a unified global map. While collaborative perception has been extensively studied through dense BEV fusion, existing methods are fundamentally ego-centric and operate within a fixed perception range, making them ill-suited for large-scale, open-world mapping. In this paper, we propose a graph-based sparse fusion framework for collaborative vectorized HD map construction. Vehicles build local HD maps collaboratively and encode them as sparse geometric graphs, which are fused by a sparse-to-sparse fusion algorithm that incrementally aligns and merges graphs across space and time. This design leverages multi-agent fine-grained features and enables scalable, memory-efficient fusion without relying on dense tensors. Experimental results show that our method constructs accurate global maps under sparse and asynchronous observations, outperforming baselines by over 10.3 mAP."
+abstract: "High-definition (HD) maps are vital for autonomous driving, providing fine-grained geometric and semantic information beyond the scope of onboard perception. However, automatically constructing accurate vectorized maps at scale using learning-based methods remains challenging, as individual vehicles observe only partial, localized environments. This motivates the need for collaborative HD map construction, where multiple vehicles contribute local observations to build a unified global map. While collaborative perception has been extensively studied through dense BEV fusion, existing methods are fundamentally ego-centric and operate within a fixed perception range, making them ill-suited for large-scale, open-world mapping. In this paper, we propose a graph-based sparse fusion framework for collaborative vectorized HD map construction. Vehicles build local HD maps collaboratively and encode them as sparse geometric graphs, which are fused by a sparse-to-sparse fusion algorithm that incrementally aligns and merges graphs across space and time. This design leverages multi-agent fine-grained features and enables scalable, memory-efficient fusion without relying on dense tensors. Experimental results show that our method constructs accurate global maps under sparse and asynchronous observations, outperforming baselines by over 10.3 mAP."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,10 +42,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://drive.google.com/file/d/1t422YHsrgB5f7Mz8uPgQbmgrrByOnTKx/view
 url_code: 
 url_dataset: 
-url_poster:
+url_poster: https://drive.google.com/file/d/1TCaIgbg16s_jSUmAs7HnAg-QDXmiXEcS/view?usp=sharing
 url_project:
 url_slides: 
 url_source:
