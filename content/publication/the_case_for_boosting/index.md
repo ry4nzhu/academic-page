@@ -16,7 +16,7 @@ date: 2023-12-14T21:56:53-04:00
 doi: "10.1145/3638550.3641132"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 203-12-14T21:56:53-04:00
+publishDate: 2023-12-14T21:56:53-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
