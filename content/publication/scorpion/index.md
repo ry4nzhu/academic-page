@@ -35,17 +35,17 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Website
+  url: ./scorpion/index.html
+  # icon_pack: fab
+  # icon: twitter
 
 url_pdf:
 url_code: 
 url_dataset: 
 url_poster:
-url_project:
+url_project: ""
 url_slides: 
 url_source:
 url_video: 
