@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Multimedia Systems Conference"
-publication_short: "MMSys 2024"
+publication_short: "MMSys 2024. <font color='red'>**Best Paper Award**</font>"
 
 abstract: "Neural-enhanced video streaming (e.g. super-resolution) is an ongoing revolution which can provide extremely high-quality video streaming services breaking the restriction of bandwidth. However, such enhancements require intense computation power that is not affordable for a single mobile device, which hinders their real-world deployment. To address the limitation, we propose OASIS, the first system that facilitates multiple users in close proximity to execute intense neural-enhanced video streaming in real-time. To this end, OASIS intelligently distributes computation tasks among multiple mobile devices, selects appropriate video bitrates and super-resolution models, and optimizes video chunk delivery. As a result, the expensive neural-enhanced streaming is done through distributed collaboration, achieving optimal quality of experience (QoE). We implement and evaluate OASIS on commodity smartphones from different vendors, under various network and computation conditions. Extensive experiments demonstrate the high efficiency of OASIS: it improves the video streaming QoE by 40%-200% and reduces each participant’s energy consumption by 60% when the system scales up from a single device to six devices."
 

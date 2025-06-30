@@ -10,11 +10,11 @@ authors:
 - Xumiao Zhang
 - Alfred Chen
 - Z. Morley Mao
-date: 2023-09-15:24:53-04:00
-doi: ""
+date: 2024-01-15:24:53-04:00
+doi: "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-09-19T15:24:53-04:00
+publishDate: 2024-01-19T15:24:53-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,9 +37,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: Appendix
+  url: https://www.usenix.org/system/files/usenixsecurity24-appendix-zhang-qingzhao.pdf
 #   icon_pack: fab
 #   icon: twitter
 
@@ -50,7 +50,7 @@ url_poster:
 url_project:
 url_slides: https://www.usenix.org/system/files/usenixsecurity24_slides-zhang-qingzhao.pdf
 url_source:
-url_video: 
+url_video: https://youtu.be/ZQDoZZSAUSI
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
