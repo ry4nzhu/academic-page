@@ -34,7 +34,7 @@ education:
     year: 2020 - Current
   - course: M.S.E. in Computer Science
     institution: University of Michigan, Ann Arbor
-    year: 2020 - 2024
+    year: 2020 - 2022
   - course: B.S.E in Computer Engineering
     institution: University of Michigan, Ann Arbor
     year: 2018 - 2020
@@ -54,9 +54,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RuiyangZhu
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ksdtPqMAAAAJ&hl=en
+
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ruiyang-zhu-2158111a3/
