@@ -11,7 +11,7 @@ authors:
 - Alfred Chen
 - Z. Morley Mao
 date: 2024-01-15:24:53-04:00
-doi: "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qingzhao"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-01-19T15:24:53-04:00
