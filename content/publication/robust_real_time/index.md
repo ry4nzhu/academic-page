@@ -3,9 +3,9 @@
 
 title: "Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors"
 authors: 
-- Qingzhao Zhang*(co-primary)
-- Xumiao Zhang*(co-primary)
-- Ruiyang Zhu*(co-primary)
+- Qingzhao Zhang*
+- Xumiao Zhang*
+- Ruiyang Zhu*
 - Fan Bai
 - Mohammad Naserian
 - Z. Morley Mao
