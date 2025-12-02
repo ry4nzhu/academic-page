@@ -44,7 +44,7 @@ links:
 url_pdf:
 url_code: 
 url_dataset: 
-url_poster:
+url_poster: files/SCORPION-IROS25.pdf
 url_project: ""
 url_slides: 
 url_source:

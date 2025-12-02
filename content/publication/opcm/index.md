@@ -17,7 +17,7 @@ authors:
 - Feng Qian
 
 date: 2025-09-11T21:56:53-04:00
-doi: ""
+doi: "https://dl.acm.org/doi/10.1145/3768970"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 203-01-14T21:56:53-04:00
@@ -53,8 +53,8 @@ url_pdf:
 url_code: 
 url_dataset: 
 url_poster:
-url_project:
-url_slides:
+url_project: https://ahmadhassandebugs.github.io/projects/opcm/
+url_slides: "https://ahmadhassandebugs.github.io/assets/pdf/slides-conext25-opcm-public.pptx"
 url_source:
 url_video: 
 
