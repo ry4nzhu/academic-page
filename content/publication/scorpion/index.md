@@ -46,7 +46,7 @@ url_code:
 url_dataset: 
 url_poster: files/SCORPION-IROS25.pdf
 url_project: ""
-url_slides: 
+url_slides: files/SCORPION-IROS25-slides.pdf
 url_source:
 url_video: 
 
