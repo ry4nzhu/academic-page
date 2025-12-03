@@ -30,7 +30,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "International Conference on emerging Networking EXperiments and Technologies (CoNEXT)"
-publication_short: "CoNEXT 2025"
+publication_short: "CoNEXT 2025. <font color='red'>**Best Community Award**</font>"
 
 abstract: "5G and future 6G networks deploy cells with diverse combinations of access technologies, architectures, and radio frequency bands/channels. Cellular operators also employ carrier aggregation for higher data access speeds. We investigate the fundamental question of how to intelligently and dynamically configure and reconfigure a user equipment's serving cells to deliver the best network performance. Through comprehensive measurements across 12 cities in 5 countries, we experimentally show the wide availability, heterogeneity, and untapped performance gains of today's cell deployments. We then put forth a principled performance-driven connectivity management framework, dubbed OPCM. It is a centralized solution deployed at the base station, allowing it to coordinate multiple UEs, enforce operator policies, and facilitate user fairness. Extensive evaluations show that OPCM improves the application QoE by up to 65.2%."
 
