@@ -9,7 +9,7 @@ authors:
 - Fan Bai
 - Z. Morley Mao
 date: 2025-05-29T21:56:53-04:00
-doi: ""
+doi: "10.1109/IROS60139.2025.11247050"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-29T21:56:53-04:00
