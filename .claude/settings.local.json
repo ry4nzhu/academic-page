@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:openxla.org)",
+      "Bash(curl -sL \"https://www.gstatic.com/devrel-devsite/prod/vb733f83c4d98b98a393545fb4caff59cc746f444c6f32fab64ef45038fb6ff9b/openxla/images/lockup.svg\" -o /tmp/openxla_lockup.svg)",
+      "Read(//tmp/**)",
+      "Bash(qlmanage -t -s 800 -o /tmp/ /tmp/openxla_lockup.svg)",
+      "Bash(curl -sL \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/General_Motors_logo.svg/320px-General_Motors_logo.svg.png\" -o /Users/ry4nzzz/academic-page/assets/media/gm.png)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(find /Users/ry4nzzz/academic-page -name google* -o -name meta* -o -name gm*)",
+      "Bash(ls -la ~/go/pkg/mod/github.com/wowchemy*)",
+      "Bash(find /Users/ry4nzzz/academic-page -type f -name *.html)",
+      "WebSearch",
+      "WebFetch(domain:wowchemy.com)",
+      "WebFetch(domain:hugoblox.com)",
+      "WebFetch(domain:docs.hugoblox.com)",
+      "WebFetch(domain:docs.ownable.dev)",
+      "WebFetch(domain:www.adam-campbell.com)",
+      "WebFetch(domain:bootstrap.hugoblox.com)",
+      "WebFetch(domain:infomath.pages.math.cnrs.fr)",
+      "Bash(find /Users/ry4nzzz/academic-page -name config* -type f)"
+    ]
+  }
+}

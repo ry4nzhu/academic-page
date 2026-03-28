@@ -17,7 +17,7 @@ authors:
 - Feng Qian
 
 date: 2025-09-11T21:56:53-04:00
-doi: "https://dl.acm.org/doi/10.1145/3768970"
+doi: "10.1145/3768970"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 203-01-14T21:56:53-04:00

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bugbasev2"
-summary: "Bugbase (version 2) is a collection of reproduceable bugs in popular software stsytems."
+summary: "Bugbase (version 2) is a collection of reproduceable bugs in popular software stsytems. Those reproducible bugs help for evaluating bug detection and root cause diagnosis."
 authors: []
 tags: []
 categories: []
