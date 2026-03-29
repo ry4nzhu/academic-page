@@ -6,7 +6,7 @@ authors:
 - Ahmad Hassan
 - Anlan Zhang
 - Wei Ye
-- Ruiyang Zhu
+- admin
 - Shuowei Jin
 - Jason Carpenter
 - Z. Morley Mao

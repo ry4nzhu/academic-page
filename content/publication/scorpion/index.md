@@ -3,7 +3,7 @@
 
 title: "SCORPION: Robust Spatial-Temporal Collaborative Perception Model on Lossy Wireless Network"
 authors: 
-- Ruiyang Zhu
+- admin
 - Minkyoung Cho
 - Shuqing Zeng
 - Fan Bai

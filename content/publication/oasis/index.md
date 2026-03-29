@@ -4,7 +4,7 @@
 title: "OASIS: Collaborative Neural-Enhanced Mobile Video Streaming"
 authors: 
 - Shuowei Jin
-- Ruiyang Zhu
+- admin
 - Ahmad Hassan
 - Xiao Zhu
 - Xumiao Zhang

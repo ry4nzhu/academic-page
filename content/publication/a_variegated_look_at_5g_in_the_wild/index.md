@@ -5,7 +5,7 @@ title: "A Variegated Look at 5G in the Wild: Performance, Power, and QoE Implica
 authors: 
 - Arvind Narayanan*
 - Xumiao Zhang*
-- Ruiyang Zhu
+- admin
 - Ahmad Hassan
 - Shuowei Jin
 - Xiao Zhu

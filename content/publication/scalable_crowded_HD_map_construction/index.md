@@ -3,12 +3,14 @@
 
 title: "Scalable Crowd-Sourced Global HD Map Construction via Collaborative Map Perception and Sparse Graph Fusion"
 authors: 
-- Ruiyang Zhu*
+- admin
 - Minkyoung Cho*
 - Shuqing Zeng
 - Fan Bai
 - Xiang Gao
 - Z. Morley Mao
+author_notes:
+- "Equal contribution"
 date: 2025-05-27T21:56:53-04:00
 doi: ""
 

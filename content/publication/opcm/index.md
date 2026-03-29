@@ -8,7 +8,7 @@ authors:
 - Anlan Zhang
 - Rostand A. K. Fezeu
 - Jason Carpenter
-- Ruiyang Zhu
+- admin
 - Shuowei Jin
 - Myungjin Lee 
 - Akshay Jajoo

@@ -5,7 +5,7 @@ title: "On Data Fabrication in Collaborative Vehicular Perception: Attacks and C
 authors: 
 - Qingzhao Zhang
 - Shuowei Jin
-- Ruiyang Zhu
+- admin
 - Jiachen Sun
 - Xumiao Zhang
 - Alfred Chen

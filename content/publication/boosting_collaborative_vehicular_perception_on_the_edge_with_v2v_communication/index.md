@@ -3,7 +3,7 @@
 
 title: "Boosting Collaborative Vehicular Perception on the Edge with Vehicle-to-Vehicle Communication"
 authors: 
-- Ruiyang Zhu
+- admin
 - Xiao Zhu
 - Anlan Zhang
 - Xumiao Zhang
