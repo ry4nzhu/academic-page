@@ -20,7 +20,8 @@
       "WebFetch(domain:www.adam-campbell.com)",
       "WebFetch(domain:bootstrap.hugoblox.com)",
       "WebFetch(domain:infomath.pages.math.cnrs.fr)",
-      "Bash(find /Users/ry4nzzz/academic-page -name config* -type f)"
+      "Bash(find /Users/ry4nzzz/academic-page -name config* -type f)",
+      "WebFetch(domain:kaleemnwzkhan.github.io)"
     ]
   }
 }
