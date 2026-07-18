@@ -12,11 +12,13 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: Ph.D. student in Computer Science
+role: AI/ML Software Engineer @ Google; Ph.D. in Computer Science @ University of Michigan
 
 # Organizations/Affiliations
 organizations:
-- name: Univeristy of Michigan - Ann Arbor
+- name: Google
+  url: "https://google.com"
+- name: University of Michigan - Ann Arbor
   url: "https://cse.engin.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
