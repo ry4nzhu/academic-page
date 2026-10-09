@@ -31,14 +31,14 @@ summary: ""
 
 tags: ["Autonomous Vehicle", "Cooperative Perception", "HD Map"]
 categories: []
-featured: false
+featured: true
 
 url_pdf: publication/graphmap/graphmap.pdf
 url_code:
 url_dataset:
-url_poster:
+url_poster: files/GraphMap-IROS26-Poster-48x36.pdf
 url_project:
-url_slides:
+url_slides: files/GraphMap.pdf
 url_source:
 url_video:
 
